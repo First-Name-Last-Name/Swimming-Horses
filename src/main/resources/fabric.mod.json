@@ -8,7 +8,8 @@
 		"FirstNameLastName"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/First-Name-Last-Name/Swimming-Horses",
+		"donations": "https://buymeacoffee.com/firstnamelastname"
 	},
 	"license": "MIT",
 	"icon": "assets/swimming-horses/icon.png",

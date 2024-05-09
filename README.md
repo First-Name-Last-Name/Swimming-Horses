@@ -1,4 +1,4 @@
-# Swimming-Horses
+# Swimming Horses
 ## Ride your horses THROUGH the river
 Traveling with your horse can be a lot of fun - until you have to cross a river. 
 
